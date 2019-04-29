@@ -1,0 +1,2 @@
+i this project I used HTML5 CSS3 javscript and php.
+php is used to connect it to the mysql database local server. By using this file you can download the zip file and the extracted it in the loaclserver's XAMPP or WAMPP repository htdocs and go the browser and in the serach url type localhost/HTML- it can open the index.php file 
